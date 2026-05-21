@@ -41,14 +41,14 @@ Bạn có thể thay đổi các chữ tiếng Anh sau biến "?i=" để đổi
 ### 📊 Thống kê GitHub
 
 <p align="center">
-  <a href="https://github.com/[username-github-của-bạn]">
-    <img src="https://github-readme-stats.vercel.app/api?username=[username-github-của-bạn]&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e" alt="GitHub Stats" />
+  <a href="https://github.com/kohi-vip">
+    <img src="https://github-readme-stats.vercel.app/api?username=kohi-vip&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e" alt="GitHub Stats" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/[username-github-của-bạn]">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=[username-github-của-bạn]&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8b949e&icon_color=3b82f6&background=0d1117" alt="GitHub Streak" />
+  <a href="https://github.com/kohi-vip">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=kohi-vip&theme=transparent&hide_border=true&title_color=3b82f6&text_color=8b949e&icon_color=3b82f6&background=0d1117" alt="GitHub Streak" />
   </a>
 </p>
 
