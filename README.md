@@ -32,7 +32,7 @@ Bạn có thể thay đổi các chữ tiếng Anh sau biến "?i=" để đổi
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,python,php,mysql,oracle,docker,kubernetes,gitlab,bash,linux&perline=11" alt="Tech Stack Logos" />
+    <img src="https://skillicons.dev/icons?i=java,spring,python,php,mysql,docker,kubernetes,gitlab,bash,linux&perline=11" alt="Tech Stack Logos" />
   </a>
 </p>
 
