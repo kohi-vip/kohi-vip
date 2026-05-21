@@ -40,7 +40,11 @@ Bạn có thể thay đổi các chữ tiếng Anh sau biến "?i=" để đổi
 
 ### 📊 Thống kê GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kohi-vip&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e)](https://github.com/kohi-vip)
+<p align="center">
+  <a href="https://github.com/kohi-vip">
+    <img src="https://github-readme-stats.vercel.app/api?username=kohi-vip&show_icons=true&theme=transparent&hide_border=true&title_color=3b82f6&icon_color=3b82f6&text_color=8b949e" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/kohi-vip">
